@@ -1,31 +1,32 @@
 ![Alt Text](https://cdn.neowin.com/news/images/uploaded/2017/05/1496142892_hacking_story.jpg)
 
 
-Infosec365: A Year-Long Hacking Odyssey
+Cyber Eyes Networks: A Year-Long Hacking Odyssey
 
 
-Welcome to Infosec365 🚀
-Embark on a transformative journey through the realm of cybersecurity with Infosec365—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
+Welcome to Cyber Eyes Networks Academy 🚀
+Embark on a transformative journey through the realm of cybersecurity with Cyber Eyes Networks Academy—a curated 365-day hacking adventure designed for enthusiasts, novices, and seasoned professionals alike. In the spirit of dedication and commitment, this comprehensive plan unfolds week by week, delving into various facets of cybersecurity, from the fundamental principles to advanced techniques.
 
 Introduction:
 
-Welcome to Infosec365, where each week unveils a new chapter in your cybersecurity education. Whether you're a beginner seeking foundational knowledge or an experienced professional honing your skills, this journey caters to all levels of expertise. It's not just about learning; it's about forging a daily commitment to the craft.
+Welcome to Cyber Eyes Networks Academy, where each week unveils a new chapter in your cybersecurity education. Whether you're a beginner seeking foundational knowledge or an experienced professional honing your skills, this journey caters to all levels of expertise. It's not just about learning; it's about forging a daily commitment to the craft.
 How It Works:
 
     Dedication Over Perfection: You don't need to be an expert from day one. Each week builds upon the last, ensuring a gradual and comprehensive progression.
 
     Consistency is Key: Small, consistent efforts compound into substantial expertise. This plan is designed to fit into your busy schedule, making it achievable for anyone committed to the journey.
 
-Connect with Me:
+Connect with Us:
 
-- Twitter: [@adonijah_kimut](https://twitter.com/adonijah_kimut)
-- LinkedIn: [[Adonijah Kiplimo](https://www.linkedin.com/in/adonijah-kiplimo-1a00b9215/)]
-- GitHub: [adonijah01](https://github.com/adonijah01)
+- X (formerly Twitter):Company Account - [@cybereyeske](https://x.com/cybereyeske) Personal Account - [@cyb3rarson](https://x.com/cyb3rarson)
+- LinkedIn: Company Account - [[Cyber Eyes Networks](https://www.linkedin.com/company/cyber-eyes-networks-ke/)]  Personal Account - [[Brian Karanja](https://www.linkedin.com/in/brian-karanja-cyb3r-arson/)]
+- GitHub: Company Account - [Cyber-Eyes-Networks](https://github.com/Cyber-Eyes-Networks) Personal Account - [Cyb3r-arson](https://github.com/cyb3r-arson/)
+- Website: Company - https://cybereyesnetworks.co.ke    Personal - https://karanja.cybereyesnetworks.co.ke
 Let the Journey Begin:
 
 The journey kicks off with an "Introductory Week" in January, paving the way for an immersive exploration of cybersecurity topics, challenges, and real-world scenarios. From Linux fundamentals to advanced threat intelligence, Infosec365 promises to equip you with the skills needed to navigate the dynamic landscape of cybersecurity.
 
-# Infosec365: 365 Days of Hacking (2024)
+# Cyber Eyes Networks Academy: 365 Days of Hacking (2024)
 A 365-day hacking journey for the entirety of 2024. This program requires dedication and commitment. Remember, every journey starts somewhere, and with persistence, we'll reach remarkable destinations.
 ### Favorite Quote:
 
@@ -265,3 +266,7 @@ A 365-day hacking journey for the entirety of 2024. This program requires dedica
 
     TryHackMe | Cybersecurity Resolutions
         - [TryHackMe | Threat Hunting](https://tryhackme.com/room/threathunting)
+    
+As you complete the Cyber Eyes Networks Academy curriculum, remember that this is just the beginning of your cybersecurity adventure. The knowledge and skills you've gained are building blocks for a future of endless possibilities. Stay curious, stay vigilant, and keep pushing the boundaries of what you can achieve.
+
+We are committed to supporting you every step of the way, providing resources and a community to help you succeed. Thank you for being part of this transformative journey. Here’s to your continued growth and success in the ever-evolving world of cybersecurity! 🚀🔐
